@@ -1,4 +1,4 @@
-from tracker import SSTTracker, TrackerConfig, Track
+from tracker import deepFAN_SSIM_Tracker, TrackerConfig, Track
 # from sst_tracker import TrackSet as SSTTracker
 import cv2
 from data.mot_data_reader import MOTDataReader
