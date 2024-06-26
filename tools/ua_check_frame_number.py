@@ -1,7 +1,4 @@
-'''
-author: shijieSun
-email: shijieSun@chd.edu.cn
-'''
+
 import argparse
 import os
 import numpy as np
