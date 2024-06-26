@@ -1,9 +1,4 @@
-"""
-SST tracker net
 
-Thanks to ssd pytorch implementation (see https://github.com/amdegroot/ssd.pytorch)
-copyright: shijie Sun (shijieSun@chd.edu.cn)
-"""
 
 import torch
 import torch.nn as nn
