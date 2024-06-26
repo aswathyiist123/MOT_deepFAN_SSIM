@@ -1,7 +1,4 @@
-'''
-author: shijie Sun
-email: shijieSun@chd.edu.cn
-'''
+
 
 import cv2
 import argparse
