@@ -1,4 +1,4 @@
-from tracker import SSTTracker
+from tracker import deepFAN_SSIM_Tracker
 import cv2
 from data.kitti_tracking_data_reader import  KITTITrackingDataReader
 from data.mot_data_reader import MOTDataReader
