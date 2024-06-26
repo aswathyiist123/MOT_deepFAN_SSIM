@@ -1,4 +1,4 @@
-from tracker import SSTTracker, TrackerConfig, Track
+from tracker import deepFAN_SSIM_Tracker, TrackerConfig, Track
 import cv2
 from data.ua_detection_data_reader import UADetectionDataReader
 import numpy as np
