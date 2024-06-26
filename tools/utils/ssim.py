@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-"""Module providing functionality to implement Structural Similarity Image 
-Quality Assessment. Based on original paper by Z. Whang
-"Image Quality Assessment: From Error Visibility to Structural Similarity" IEEE
-Transactions on Image Processing Vol. 13. No. 4. April 2004.
-"""
+
 
 import sys
 import numpy
