@@ -1,5 +1,5 @@
 # from tracker import SSTTracker
-from sst_tracker import TrackSet as SSTTracker
+from deepFAN_Tracker import TrackSet as deepFAN_SSIM_Tracker
 import cv2
 from data.kitti_detection_data_reader import KITTIDataReader
 import numpy as np
