@@ -562,7 +562,7 @@ class Tracks:
         return image
 
 # The tracker is compatible with pytorch (cuda)
-class SSTTracker:
+class deepFAN_SSIM_Tracker:
     def __init__(self):
         Track._id_pool = 0
         self.first_run = True
