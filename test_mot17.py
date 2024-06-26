@@ -1,5 +1,5 @@
-from tracker import SSTTracker, TrackerConfig, Track
-# from sst_tracker import TrackSet as SSTTracker
+from tracker import deepFAN_SSIM_Tracker, TrackerConfig, Track
+
 import cv2
 from data.mot_data_reader import MOTDataReader
 import numpy as np
