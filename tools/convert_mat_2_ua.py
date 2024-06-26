@@ -1,7 +1,4 @@
-'''
-author: shijie Sun
-email: shijieSun@chd.edu.cn
-'''
+
 import argparse
 import os
 import scipy.io as scio
